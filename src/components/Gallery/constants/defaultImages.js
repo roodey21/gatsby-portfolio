@@ -41,18 +41,18 @@ export const DEFAULT_IMAGES = [
       caption: 'Photo 4',
       description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
     },
-    {
-      id: '5',
-      source: full05,
-      thumbnail: thumb05,
-      caption: 'Photo 5',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
-    },
-    {
-      id: '6',
-      source: full06,
-      thumbnail: thumb06,
-      caption: 'Photo 6',
-      description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
-    }
+    // {
+    //   id: '5',
+    //   source: full05,
+    //   thumbnail: thumb05,
+    //   caption: 'Photo 5',
+    //   description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+    // },
+    // {
+    //   id: '6',
+    //   source: full06,
+    //   thumbnail: thumb06,
+    //   caption: 'Photo 6',
+    //   description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
+    // }
 ]

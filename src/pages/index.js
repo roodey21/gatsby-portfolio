@@ -5,7 +5,7 @@ import Gallery from '../components/Gallery'
 import Layout from '../components/layout'
 
 const HomeIndex = () => {
-  const siteTitle = 'Gatsby Starter - Strata'
+  const siteTitle = 'My Portfolio - Fahrudin Yusuf Abadi'
   const siteDescription = 'Site description'
 
   return (
@@ -42,7 +42,7 @@ const HomeIndex = () => {
         </section>
 
         <section id="two">
-          <h2>Recent Work</h2>
+          <h2>Recent Project</h2>
 
           <Gallery />
 
@@ -56,11 +56,9 @@ const HomeIndex = () => {
         </section>
 
         <section id="three">
-          <h2>Get In Touch</h2>
+          <h2>Get in Touch</h2>
           <p>
-            Accumsan pellentesque commodo blandit enim arcu non at amet id arcu
-            magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem
-            vulputate lorem neque lorem ipsum dolor.
+            Feel free for contacting me :).
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
@@ -104,23 +102,23 @@ const HomeIndex = () => {
                   <h3 className="icon fa-home">
                     <span className="label">Address</span>
                   </h3>
-                  1234 Somewhere Rd.
+                  Patemon, Dlimoyo, Ngadirejo.
                   <br />
-                  Nashville, TN 00000
+                  Temanggung city, Central Java, 56255
                   <br />
-                  United States
+                  Indonesia
                 </li>
                 <li>
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
-                  000-000-0000
+                  +6282135757950
                 </li>
                 <li>
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">hello@untitled.tld</a>
+                  <a href="#">peaceforabadon@gmail.com</a>
                 </li>
               </ul>
             </div>
