@@ -23,7 +23,7 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-          Hard-working web developer with an ambition for creating elegant solutions in the least amount of time. Developed an ecommerce webapp for guitar shop, ebook management system, simple android web-based application, and another personal project. Passionate in frontend web development especially UI/UX, but still focused on learning backend web development.
+          Fahrudin Yusuf Abadi, hard-working web developer with an ambition for creating elegant solutions in the least amount of time. Developed an ecommerce webapp for guitar shop, ebook management system, simple android web-based application, and another personal project. Passionate in frontend web development especially UI/UX, but still focused on learning backend web development.
           </p>
           {/* <ul className="actions">
             <li>
@@ -41,7 +41,7 @@ const HomeIndex = () => {
 
           <ul className="actions">
             <li>
-              <a href="#" className="button">
+              <a href="https://roodeybadd.my.id" className="button">
                 Full Portfolio
               </a>
             </li>
