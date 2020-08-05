@@ -19,26 +19,19 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Ipsum lorem dolor aliquam ante commodo
-              <br />
-              magna sed accumsan arcu neque.
+              <a>This is My Portfolio</a>
             </h2>
           </header>
           <p>
-            Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
-            nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae
-            lobortis tortor primis integer massa adipiscing id nisi accumsan
-            pellentesque commodo blandit enim arcu non at amet id arcu magna.
-            Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
-            lorem neque cubilia.
+          Hard-working web developer with an ambition for creating elegant solutions in the least amount of time. Developed an ecommerce webapp for guitar shop, ebook management system, simple android web-based application, and another personal project. Passionate in frontend web development especially UI/UX, but still focused on learning backend web development.
           </p>
-          <ul className="actions">
+          {/* <ul className="actions">
             <li>
               <a href="#" className="button">
                 Learn More
               </a>
             </li>
-          </ul>
+          </ul> */}
         </section>
 
         <section id="two">
@@ -58,7 +51,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Get in Touch</h2>
           <p>
-            Feel free for contacting me :).
+            Feel free for contacting me.
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
@@ -91,7 +84,7 @@ const HomeIndex = () => {
                 </div>
                 <ul className="actions" style={{ marginTop: 30 }}>
                   <li>
-                    <input type="submit" value="Send Message" />
+                    <a href="mailto: peaceforabadon@gmail.com" className="button">Send a Email</a>
                   </li>
                 </ul>
               </form>
@@ -102,9 +95,8 @@ const HomeIndex = () => {
                   <h3 className="icon fa-home">
                     <span className="label">Address</span>
                   </h3>
-                  Patemon, Dlimoyo, Ngadirejo.
-                  <br />
-                  Temanggung city, Central Java, 56255
+                  Patemon, Dlimoyo, Ngadirejo, 
+                  Temanggung, Central Java, 56255
                   <br />
                   Indonesia
                 </li>
@@ -118,7 +110,7 @@ const HomeIndex = () => {
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">peaceforabadon@gmail.com</a>
+                  <a href="mailto: peaceforabadon@gmail.com">peaceforabadon@gmail.com</a>
                 </li>
               </ul>
             </div>

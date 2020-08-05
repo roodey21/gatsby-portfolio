@@ -17,7 +17,7 @@ const GalleryItem = ({id, source, thumbnail, caption, description, position, tog
         <img src={thumbnail} />
         </a>
 
-        <h3>{caption}</h3>
+        <h3><a>{caption}</a></h3>
         <p>{description}</p>
     </article>)
 };
