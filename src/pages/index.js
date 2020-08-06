@@ -25,13 +25,13 @@ const HomeIndex = () => {
           <p>
           Fahrudin Yusuf Abadi, hard-working web developer with an ambition for creating elegant solutions in the least amount of time. Developed an ecommerce webapp for guitar shop, ebook management system, simple android web-based application, and another personal project. Passionate in frontend web development especially UI/UX, but still focused on learning backend web development.
           </p>
-          {/* <ul className="actions">
+          <ul className="actions">
             <li>
-              <a href="#" className="button">
-                Learn More
+              <a href="https://drive.google.com/file/d/1cyiMMdGzg9cJExJsiahVO7IqKl3QtD-F/view?usp=sharing" className="button" target="_blank>
+                Download My Resume
               </a>
             </li>
-          </ul> */}
+          </ul> 
         </section>
 
         <section id="two">
