@@ -27,7 +27,7 @@ const HomeIndex = () => {
           </p>
           <ul className="actions">
             <li>
-              <a href="https://drive.google.com/file/d/1cyiMMdGzg9cJExJsiahVO7IqKl3QtD-F/view?usp=sharing" className="button" target="_blank">
+              <a href="https://drive.google.com/file/d/1_-nZTyuhuIftCq8ykBufmbiKm7bw26Xs/view?usp=sharing" className="button" target="_blank">
                 Download My Resume
               </a>
             </li>
